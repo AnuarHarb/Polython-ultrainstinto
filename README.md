@@ -13,4 +13,7 @@ https://github.com/dezkareid/form-evaluator-generator
 
 ### Demos:
 https://github.com/aldoaldaco/PolythonApp
+https://github.com/gndx/landing-teloprestopapu
+https://github.com/AnuarHarb/demo2
+https://github.com/AnuarHarb/demo3
 
